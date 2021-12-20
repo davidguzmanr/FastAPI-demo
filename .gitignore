@@ -9,6 +9,9 @@ fastapi-venv/
 # Notebooks
 *.ipynb
 
+# PEM file for the EC2 instance
+fastapi-demo.pem
+
 # C extensions
 *.so
 
